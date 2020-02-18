@@ -4,14 +4,14 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class FormController extends Controller
+class HousesController extends Controller
 {
-    public function create()
+    public function searchForm()
     {
-        return view('create');
+        return view('houses');
     }
 
-    public function store(Request $request)
+    public function search(Request $request)
     {
         $validator = \Validator::make($request->all(), [
             'name' => 'required',

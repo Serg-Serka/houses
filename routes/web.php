@@ -15,5 +15,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('form', 'FormController@create');
-Route::post('/form', 'FormController@store');
+Route::get('/houses', 'HousesController@searchForm');
+Route::post('/houses', 'HousesController@search');
