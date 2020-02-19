@@ -17,3 +17,7 @@ Route::get('/', function () {
 
 Route::get('/houses', 'HousesController@searchForm');
 Route::post('/houses', 'HousesController@search');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

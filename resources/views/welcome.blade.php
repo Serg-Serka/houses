@@ -1,5 +1,5 @@
 @extends('layout')
-@section('welcome')
+@section('welcome_content')
             <div class="content">
                 <div class="title m-b-md">
                     Laravel

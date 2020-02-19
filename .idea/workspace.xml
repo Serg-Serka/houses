@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78cc93af-b671-4646-9a53-c2df9e2edd5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +118,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1XyNAiy9Rw4ey5RctoVnuBuzjxU" />
@@ -145,7 +158,8 @@
       <updated>1582014232116</updated>
       <workItem from="1582014233795" duration="2610000" />
       <workItem from="1582017410375" duration="13606000" />
-      <workItem from="1582116018074" duration="2708000" />
+      <workItem from="1582116018074" duration="3596000" />
+      <workItem from="1582122281855" duration="490000" />
     </task>
     <servers />
   </component>
@@ -165,9 +179,9 @@
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
     <state x="790" y="478" width="399" height="149" key="NewPhpFileDialog/69.27.1851.1053@69.27.1851.1053" timestamp="1582040347376" />
-    <state x="650" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582017412649">
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582122285717">
       <screen x="69" y="27" width="1851" height="1053" />
     </state>
-    <state x="650" y="380" key="com.intellij.ide.util.TipDialog/69.27.1851.1053@69.27.1851.1053" timestamp="1582017412649" />
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog/69.27.1851.1053@69.27.1851.1053" timestamp="1582122285717" />
   </component>
 </project>
